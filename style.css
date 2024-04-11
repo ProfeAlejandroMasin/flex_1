@@ -42,7 +42,7 @@
 
 #caja3 {
     order: -1;
-    background-color: red;
+    background-color: blue;
     flex-grow: 2;
 }
 
